@@ -1,2 +1,2 @@
-# JonathanSAdulloWD42P_RestaurantWebsite
+# JonathanSadulloWD42P_RestaurantWebsite
 Create a website for Restaurant.
